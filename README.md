@@ -1,3 +1,3 @@
 # fast-core
 
-Teste de commit.
+Teste de commit origin.
